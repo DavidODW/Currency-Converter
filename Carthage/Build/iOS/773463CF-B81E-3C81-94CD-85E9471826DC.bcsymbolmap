@@ -1,0 +1,74 @@
+BCSymbolMap Version: 1.0
+_TTSf4gs_gs___TZFSsoi2eeFTSSSS_Sb
+get_field_types_FlagKit
+__swift_noop_void_return
+__swift_memcpy1_1
+__swift_noop_self_return
+__swift_memcpy_array1_1
+__swift_memmove_array1_1
+_TwxsOC7FlagKit7FlagKit11SpecialFlag
+_TwxgOC7FlagKit7FlagKit11SpecialFlag
+_TwugOC7FlagKit7FlagKit11SpecialFlag
+_TwupOC7FlagKit7FlagKit11SpecialFlag
+get_field_types_SpecialFlag
+L_selector_data(bundleForClass:)
+L_selector(bundleForClass:)
+_METACLASS_DATA__TtC7FlagKit7FlagKit
+_DATA__TtC7FlagKit7FlagKit
+_TMfC7FlagKit7FlagKit
+_TMfOC7FlagKit7FlagKit11SpecialFlag
+_swift_FORCE_LOAD_$_swiftUIKit_$_FlagKit
+_swift_FORCE_LOAD_$_swiftCoreImage_$_FlagKit
+_swift_FORCE_LOAD_$_swiftDarwin_$_FlagKit
+_swift_FORCE_LOAD_$_swiftCoreGraphics_$_FlagKit
+_swift_FORCE_LOAD_$_swiftDispatch_$_FlagKit
+_swift_FORCE_LOAD_$_swiftObjectiveC_$_FlagKit
+_swift_FORCE_LOAD_$_swiftFoundation_$_FlagKit
+l_protocol_conformances
+got._TMpSs9Equatable
+got._TMpSs8Hashable
+got._TMpSs16RawRepresentable
+field_type_vector_SpecialFlag
+field_type_vector_FlagKit
+objc_classes
+switch.table6
+switch.table7
+Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)
+-emit-bc -primary-file "/Users/davidodw/Developer/iOS/Project Galaxy/Project15/Carthage/Checkouts/FlagKit/FlagKit-Common/FlagKit.swift" "/Users/davidodw/Developer/iOS/Project Galaxy/Project15/Carthage/Checkouts/FlagKit/FlagKit-iOS/UIImage.swift" -target arm64-apple-ios8.0 -Xllvm -aarch64-use-tbi -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk -I /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Products/Release-iphoneos -F /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Products/Release-iphoneos -g -import-underlying-module -module-cache-path /Users/davidodw/Library/Developer/Xcode/DerivedData/ModuleCache -serialize-debugging-options -Xcc -I/Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/FlagKit-generated-files.hmap -Xcc -I/Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/FlagKit-own-target-headers.hmap -Xcc -I/Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/FlagKit-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/FlagKit-project-headers.hmap -Xcc -I/Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Products/Release-iphoneos/include -Xcc -I/Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/DerivedSources/arm64 -Xcc -I/Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/DerivedSources -Xcc -ivfsoverlay -Xcc /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/unextended-module-overlay.yaml -Xcc "-working-directory/Users/davidodw/Developer/iOS/Project Galaxy/Project15/Carthage/Checkouts/FlagKit" -emit-module-doc-path /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/Objects-normal/arm64/FlagKit~partial.swiftdoc -O -module-name FlagKit -emit-module-path /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/Objects-normal/arm64/FlagKit~partial.swiftmodule -serialize-diagnostics-path /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/Objects-normal/arm64/FlagKit.dia -emit-dependencies-path /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/Objects-normal/arm64/FlagKit.d -o /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/Objects-normal/arm64/FlagKit.bc -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift
+FlagKit.swift
+/Users/davidodw/Developer/iOS/Project Galaxy/Project15/Carthage/Checkouts/FlagKit/FlagKit-Common
+init
+deinit
+assetBundle.get
+hashValue.get
+_TTWSSSs9EquatableSsZFS_oi2eeuRq_S__fMq_FTq_q__Sb
+rawValue.get
+==
+_TTSg5OC7FlagKit7FlagKit11SpecialFlagS1_Ss16RawRepresentableS__SSSSSs9EquatableSs___TZFSsoi2eeuRq_Ss16RawRepresentableqq_S_8RawValueSs9Equatable_FTq_q__Sb
+_TFSSCfMSSFT21_builtinStringLiteralBp8byteSizeBw7isASCIIBi1__SS
+_TTSf4n_n_n_d___TFSSCfMSSFT21_builtinStringLiteralBp8byteSizeBw7isASCIIBi1__SS
+_TFSig9hashValueSi
+_TFOC7FlagKit7FlagKit11SpecialFlag7OceaniaFMS1_S1_
+_TFOC7FlagKit7FlagKit11SpecialFlag4AsiaFMS1_S1_
+_TFOC7FlagKit7FlagKit11SpecialFlag6AfricaFMS1_S1_
+_TFOC7FlagKit7FlagKit11SpecialFlag6EuropeFMS1_S1_
+_TFOC7FlagKit7FlagKit11SpecialFlag12SouthAmericaFMS1_S1_
+_TFOC7FlagKit7FlagKit11SpecialFlag12NorthAmericaFMS1_S1_
+_TFOC7FlagKit7FlagKit11SpecialFlag13EuropeanUnionFMS1_S1_
+_TFOC7FlagKit7FlagKit11SpecialFlag5WorldFMS1_S1_
+_TToFE7FlagKitCSo7UIImagecfMS0_FT24flagImageWithCountryCodeSS_GSqS0__
+L_selector_data(allocWithZone:)
+L_selector(allocWithZone:)
+L_selector_data(initWithFlagImageWithCountryCode:)
+L_selector(initWithFlagImageWithCountryCode:)
+L_selector_data(imageNamed:inBundle:compatibleWithTraitCollection:)
+L_selector(imageNamed:inBundle:compatibleWithTraitCollection:)
+_CATEGORY_INSTANCE_METHODS_UIImage_$_FlagKit
+_CATEGORY_UIImage_$_FlagKit
+objc_categories
+-emit-bc "/Users/davidodw/Developer/iOS/Project Galaxy/Project15/Carthage/Checkouts/FlagKit/FlagKit-Common/FlagKit.swift" -primary-file "/Users/davidodw/Developer/iOS/Project Galaxy/Project15/Carthage/Checkouts/FlagKit/FlagKit-iOS/UIImage.swift" -target arm64-apple-ios8.0 -Xllvm -aarch64-use-tbi -enable-objc-interop -sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk -I /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Products/Release-iphoneos -F /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Products/Release-iphoneos -g -import-underlying-module -module-cache-path /Users/davidodw/Library/Developer/Xcode/DerivedData/ModuleCache -serialize-debugging-options -Xcc -I/Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/swift-overrides.hmap -Xcc -iquote -Xcc /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/FlagKit-generated-files.hmap -Xcc -I/Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/FlagKit-own-target-headers.hmap -Xcc -I/Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/FlagKit-all-non-framework-target-headers.hmap -Xcc -ivfsoverlay -Xcc /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/all-product-headers.yaml -Xcc -iquote -Xcc /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/FlagKit-project-headers.hmap -Xcc -I/Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Products/Release-iphoneos/include -Xcc -I/Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/DerivedSources/arm64 -Xcc -I/Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/DerivedSources -Xcc -ivfsoverlay -Xcc /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/unextended-module-overlay.yaml -Xcc "-working-directory/Users/davidodw/Developer/iOS/Project Galaxy/Project15/Carthage/Checkouts/FlagKit" -emit-module-doc-path /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/Objects-normal/arm64/UIImage~partial.swiftdoc -O -module-name FlagKit -emit-module-path /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/Objects-normal/arm64/UIImage~partial.swiftmodule -serialize-diagnostics-path /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/Objects-normal/arm64/UIImage.dia -emit-dependencies-path /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/Objects-normal/arm64/UIImage.d -o /Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/Objects-normal/arm64/UIImage.bc -resource-dir /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift
+UIImage.swift
+/Users/davidodw/Developer/iOS/Project Galaxy/Project15/Carthage/Checkouts/FlagKit/FlagKit-iOS
+Apple LLVM version 7.0.2 (clang-700.1.81)
+/Users/davidodw/Library/Developer/Xcode/DerivedData/FlagKit-covhjwlextuspfepqhafmqoxpmez/Build/Intermediates/FlagKit.build/Release-iphoneos/FlagKit-iOS.build/DerivedSources/FlagKit_vers.c
+/Users/davidodw/Developer/iOS/Project Galaxy/Project15/Carthage/Checkouts/FlagKit

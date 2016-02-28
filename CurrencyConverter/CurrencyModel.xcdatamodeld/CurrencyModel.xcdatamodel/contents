@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="9525" systemVersion="15D21" minimumToolsVersion="Xcode 7.0">
+    <entity name="Country" representedClassName="CountryCore" syncable="YES">
+        <attribute name="code" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="continent" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="continentCode" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="currency" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Currency" inverseName="countries" inverseEntity="Currency" syncable="YES"/>
+    </entity>
+    <entity name="Currency" representedClassName="CurrencyCore" syncable="YES">
+        <attribute name="code" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="majorContinent" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="majorCountry" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="symbol" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="countries" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="Country" inverseName="currency" inverseEntity="Country" syncable="YES"/>
+    </entity>
+    <entity name="CurrencyDashboard" representedClassName=".CurrencyDashboard" syncable="YES">
+        <attribute name="amount" optional="YES" attributeType="String" defaultValueString="1.0" syncable="YES"/>
+        <attribute name="code" attributeType="String" syncable="YES"/>
+        <attribute name="orderPosition" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="CurrencyRate" representedClassName=".CurrencyRateCore" syncable="YES">
+        <attribute name="name" attributeType="String" syncable="YES"/>
+        <attribute name="rate" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Country" positionX="-36" positionY="36" width="128" height="120"/>
+        <element name="Currency" positionX="-207" positionY="63" width="128" height="135"/>
+        <element name="CurrencyDashboard" positionX="-117" positionY="99" width="128" height="90"/>
+        <element name="CurrencyRate" positionX="-117" positionY="99" width="128" height="75"/>
+    </elements>
+</model>

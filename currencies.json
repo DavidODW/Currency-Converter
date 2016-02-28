@@ -1,0 +1,2980 @@
+{
+  "id":"f6ee2f59-86ff-4a64-8cf0-b5d46f75f878",
+  "currency":[
+    {
+      "code": "AED",
+      "symbol": "\u062f.\u0625;",
+      "name": "United Arab Emirates Dirham",
+      "major_country": "AE",
+      "major_continent": "CAS",
+      "country": [
+        {
+          "name": "United Arab Emirates",
+          "code": "AE",
+          "continent": "Asia",
+          "continent_code": "CAS"
+        }
+      ]
+    },
+    {
+      "code": "AFN",
+      "symbol": "\u060b",
+      "name": "Afghan Afghani",
+      "major_country": "AF",
+      "major_continent": "CAS",
+      "country": [
+        {
+          "name": "Afghanistan",
+          "code": "AF",
+          "continent": "Asia",
+          "continent_code": "CAS"
+        }
+      ]
+    },
+    {
+      "code": "ALL",
+      "symbol": "Lek",
+      "name": "Albanian Lek",
+      "major_country": "AL",
+      "major_continent": "CEU",
+      "country": [
+        {
+          "name": "Albania",
+          "code": "AL",
+          "continent": "Europe",
+          "continent_code": "CEU"
+        }
+      ]
+    },
+    {
+      "code": "AMD",
+      "symbol": "\u058f",
+      "name": "Armenian Dram",
+      "major_country": "AM",
+      "major_continent": "CAS",
+      "country": [
+        {
+          "name": "Armenia",
+          "code": "AM",
+          "continent": "Asia",
+          "continent_code": "CAS"
+        }
+      ]
+    },
+    {
+      "code": "ANG",
+      "symbol": "NA\u0192",
+      "name": "Netherlands Antillean Guilder",
+      "major_country": "CW",
+      "major_continent": "CNA",
+      "country": [
+        {
+          "name": "Curaçao",
+          "code": "CW",
+          "continent": "North America",
+          "continent_code": "CNA"
+        },
+        {
+          "name": "Sint Maarten",
+          "code": "SX",
+          "continent": "North America",
+          "continent_code": "CNA"
+        }
+      ]
+    },
+    {  
+      "code":"AOA",
+      "symbol":"Kz",
+      "name":"Angolan Kwanza",
+      "major_country": "AO",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Angola",
+          "code":"AO",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"ARS",
+      "symbol":"$",
+      "name":"Argentine Peso",
+      "major_country": "AR",
+      "major_continent": "CSA",
+      "country":[  
+        {  
+          "name":"Argentina",
+          "code":"AR",
+          "continent":"South America",
+          "continent_code":"CSA"
+        }
+      ]
+    },
+    {  
+      "code":"AUD",
+      "symbol":"$",
+      "name":"Australian Dollar",
+      "major_country": "AU",
+      "major_continent": "COC",
+      "country":[  
+        {  
+          "name":"Australia",
+          "code":"AU",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        },
+        {  
+          "name":"Christmas Island",
+          "code":"CX",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        },
+        {  
+          "name":"Cocos(Keeling) Islands",
+          "code":"CC",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        },
+        {  
+          "name":"Kiribati",
+          "code":"KI",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        },
+        {  
+          "name":"Nauru",
+          "code":"NR",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        },
+        {  
+          "name":"Norfolk Island",
+          "code":"NF",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        },
+        {  
+          "name":"Tuvalu",
+          "code":"TV",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        }
+      ]
+    },
+    {  
+      "code":"AWG",
+      "symbol":"\u0192",
+      "name":"Aruban Florin",
+      "major_country": "AW",
+      "major_continent": "CNA",
+      "country":[  
+        {  
+          "name":"Aruba",
+          "code":"AW",
+          "continent":"North America",
+          "continent_code":"CNA"
+        }
+      ]
+    },
+    {  
+      "code":"AZN",
+      "symbol":"MaH",
+      "name":"Azerbaijani Manat",
+      "major_country": "AZ",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Azerbaijan",
+          "code":"AZ",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"BAM",
+      "symbol":"KM",
+      "name":"Bosnia-Herzegovina Convertible Mark",
+      "major_country": "BA",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Bosnia and Herzegovina",
+          "code":"BA",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"BBD",
+      "symbol":"Bds$",
+      "name":"Barbadian Dollar",
+      "major_country": "BB",
+      "major_continent": "CNA",
+      "country":[  
+        {  
+          "name":"Barbados",
+          "code":"BB",
+          "continent":"North America",
+          "continent_code":"CNA"
+        }
+      ]
+    },
+    {  
+      "code":"BDT",
+      "symbol":"\u09f3",
+      "name":"Bangladeshi Taka",
+      "major_country": "BD",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Bangladesh",
+          "code":"BD",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"BGN",
+      "symbol":"\u043b\u0432",
+      "name":"Bulgarian Lev",
+      "major_country": "BG",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Bulgaria",
+          "code":"BG",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"BHD",
+      "symbol":".\u062f.\u0628",
+      "name":"Bahraini Dinar",
+      "major_country": "BH",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Bahrain",
+          "code":"BH",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"BIF",
+      "symbol":"FBu",
+      "name":"Burundian Franc",
+      "major_country": "BI",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Burundi",
+          "code":"BI",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"BMD",
+      "symbol":"BM$",
+      "name":"Bermudan Dollar",
+      "major_country": "BM",
+      "major_continent": "CNA",
+      "country":[  
+        {  
+          "name":"Bermuda",
+          "code":"BM",
+          "continent":"North America",
+          "continent_code":"CNA"
+        }
+      ]
+    },
+    {  
+      "code":"BND",
+      "symbol":"BN$",
+      "name":"Brunei Dollar",
+      "major_country": "BN",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Brunei",
+          "code":"BN",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"BOB",
+      "symbol":"$b",
+      "name":"Bolivian Boliviano",
+      "major_country": "BO",
+      "major_continent": "CSA",
+      "country":[  
+        {  
+          "name":"Bolivia",
+          "code":"BO",
+          "continent":"South America",
+          "continent_code":"CSA"
+        }
+      ]
+    },
+    {  
+      "code":"BRL",
+      "symbol":"R$",
+      "name":"Brazilian Real",
+      "major_country": "BR",
+      "major_continent": "CSA",
+      "country":[  
+        {  
+          "name":"Brazil",
+          "code":"BR",
+          "continent":"South America",
+          "continent_code":"CSA"
+        }
+      ]
+    },
+    {  
+      "code":"BSD",
+      "symbol":"BS$",
+      "name":"Bahamian Dollar",
+      "major_country": "BS",
+      "major_continent": "CNA",
+      "country":[  
+        {  
+          "name":"Bahamas",
+          "code":"BS",
+          "continent":"North America",
+          "continent_code":"CNA"
+        }
+      ]
+    },
+    {  
+      "code":"BTC",
+      "symbol":"BTC",
+      "name":"Bitcoin",
+      "major_country": "",
+      "major_continent": "",
+      "country":[  
+
+      ]
+    },
+    {  
+      "code":"BTN",
+      "symbol":"Nu.",
+      "name":"Bhutanese Ngultrum",
+      "major_country": "BT",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Bhutan",
+          "code":"BT",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"BWP",
+      "symbol":"P",
+      "name":"Botswanan Pula",
+      "major_country": "BW",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Botswana",
+          "code":"BW",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"BYR",
+      "symbol":"p.",
+      "name":"Belarusian Ruble",
+      "major_country": "BY",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Belarus",
+          "code":"BY",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"BZD",
+      "symbol":"BZ$",
+      "name":"Belize Dollar",
+      "major_country": "BZ",
+      "major_continent": "CNA",
+      "country":[  
+        {  
+          "name":"Belize",
+          "code":"BZ",
+          "continent":"North America",
+          "continent_code":"CNA"
+        }
+      ]
+    },
+    {  
+      "code":"CAD",
+      "symbol":"$",
+      "name":"Canadian Dollar",
+      "major_country": "CA",
+      "major_continent": "CNA",
+      "country":[  
+        {  
+          "name":"Canada",
+          "code":"CA",
+          "continent":"North America",
+          "continent_code":"CNA"
+        }
+      ]
+    },
+    {  
+      "code":"CDF",
+      "symbol":"FC",
+      "name":"Congolese Franc",
+      "major_country": "CD",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Congo, Democratic Republic of the",
+          "code":"CD",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"CHF",
+      "symbol":"CHF",
+      "name":"Swiss Franc",
+      "major_country": "CH",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Liechtenstein",
+          "code":"LI",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Switzerland",
+          "code":"CH",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"CLP",
+      "symbol":"$",
+      "name":"Chilean Peso",
+      "major_country": "CL",
+      "major_continent": "CSA",
+      "country":[  
+        {  
+          "name":"Chile",
+          "code":"CL",
+          "continent":"South America",
+          "continent_code":"CSA"
+        }
+      ]
+    },
+    {  
+      "code":"CNY",
+      "symbol":"\u00a5",
+      "name":"Chinese Yuan",
+      "major_country": "CN",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"China",
+          "code":"CN",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"COP",
+      "symbol":"$",
+      "name":"Colombian Peso",
+      "major_country": "CO",
+      "major_continent": "CSA",
+      "country":[  
+        {  
+          "name":"Colombia",
+          "code":"CO",
+          "continent":"South America",
+          "continent_code":"CSA"
+        }
+      ]
+    },
+    {  
+      "code":"CRC",
+      "symbol":"\u20a1",
+      "name":"Costa Rican Colón",
+      "major_country": "CR",
+      "major_continent": "CSA",
+      "country":[  
+        {  
+          "name":"Costa Rica",
+          "code":"CR",
+          "continent":"South America",
+          "continent_code":"CSA"
+        }
+      ]
+    },
+    {  
+      "code":"CUC",
+      "symbol":"$",
+      "name":"Cuban Convertible Peso",
+      "major_country": "CU",
+      "major_continent": "CNA",
+      "country":[  
+        {  
+          "name":"Cuba",
+          "code":"CU",
+          "continent":"North America",
+          "continent_code":"CNA"
+        }
+      ]
+    },
+    {  
+      "code":"CUP",
+      "symbol":"$",
+      "name":"Cuban Peso",
+      "major_country": "CU",
+      "major_continent": "CNA",
+      "country":[  
+        {  
+          "name":"Cuba",
+          "code":"CU",
+          "continent":"North America",
+          "continent_code":"CNA"
+        }
+      ]
+    },
+    {  
+      "code":"CVE",
+      "symbol":"Esc",
+      "name":"Cape Verdean Escudo",
+      "major_country": "CV",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Cape Verde",
+          "code":"CV",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"CZK",
+      "symbol":"K\u010d",
+      "name":"Czech Republic Koruna",
+      "major_country": "CZ",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Czech Republic",
+          "code":"CZ",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"DJF",
+      "symbol":"Fdj",
+      "name":"Djiboutian Franc",
+      "major_country": "DJ",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Djibouti",
+          "code":"DJ",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"DKK",
+      "symbol":"Kr",
+      "name":"Danish Krone",
+      "major_country": "DK",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Denmark",
+          "code":"DK",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Greenland",
+          "code":"GL",
+          "continent":"North America",
+          "continent_code":"CNA"
+        }
+      ]
+    },
+    {  
+      "code":"DOP",
+      "symbol":"RD$",
+      "name":"Dominican Peso",
+      "major_country": "DO",
+      "major_continent": "CNA",
+      "country":[  
+        {  
+          "name":"Dominican Republic",
+          "code":"DO",
+          "continent":"North America",
+          "continent_code":"CNA"
+        }
+      ]
+    },
+    {  
+      "code":"DZD",
+      "symbol":"\u062f.\u062c",
+      "name":"Algerian Dinar",
+      "major_country": "DZ",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Algeria",
+          "code":"DZ",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"EEK",
+      "symbol":"EEK",
+      "name":"Estonian Kroon",
+      "major_country": "",
+      "major_continent": "",
+      "country":[  
+
+      ]
+    },
+    {  
+      "code":"EGP",
+      "symbol":"\u00a3",
+      "name":"Egyptian Pound",
+      "major_country": "EG",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Egypt",
+          "code":"EG",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"ERN",
+      "symbol":"Nfk",
+      "name":"Eritrean Nakfa",
+      "major_country": "ER",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Eritrea",
+          "code":"ER",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"ETB",
+      "symbol":"Br",
+      "name":"Ethiopian Birr",
+      "major_country": "ET",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Ethiopia",
+          "code":"ET",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"EUR",
+      "symbol":"\u20ac",
+      "name":"European Euro",
+      "major_country": "EU",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Åland Islands",
+          "code":"AX",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Andorra",
+          "code":"AD",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Austria",
+          "code":"AT",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Belgium",
+          "code":"BE",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Cyprus",
+          "code":"CY",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Estonia",
+          "code":"EE",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Finland",
+          "code":"FI",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"France",
+          "code":"FR",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"French Guiana",
+          "code":"GF",
+          "continent":"South America",
+          "continent_code":"CSA"
+        },
+        {  
+          "name":"Germany",
+          "code":"DE",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Greece",
+          "code":"GR",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Guadeloupe",
+          "code":"GP",
+          "continent":"North America",
+          "continent_code":"CNA"
+        },
+        {  
+          "name":"Ireland",
+          "code":"IE",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Italy",
+          "code":"IT",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Kosovo",
+          "code":"XK",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Latvia",
+          "code":"LV",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Lithuania",
+          "code":"LT",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Luxembourg",
+          "code":"LU",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Malta",
+          "code":"MT",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Martinique",
+          "code":"MQ",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Mayotte",
+          "code":"YT",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        },
+        {  
+          "name":"Monaco",
+          "code":"MC",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Montenegro",
+          "code":"ME",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Netherlands",
+          "code":"NL",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Portugal",
+          "code":"PT",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Reunion",
+          "code":"RE",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        },
+        {  
+          "name":"Saint Barthélemy",
+          "code":"BL",
+          "continent":"North America",
+          "continent_code":"CNA"
+        },
+        {  
+          "name":"Saint Martin",
+          "code":"MF",
+          "continent":"North America",
+          "continent_code":"CNA"
+        },
+        {  
+          "name":"Saint Pierre and Miquelon",
+          "code":"PM",
+          "continent":"North America",
+          "continent_code":"CNA"
+        },
+        {  
+          "name":"San Marino",
+          "code":"SM",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Slovakia",
+          "code":"SK",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Slovenia",
+          "code":"SI",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Spain",
+          "code":"ES",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Vatican City",
+          "code":"VA",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"FJD",
+      "symbol":"$",
+      "name":"Fijian Dollar",
+      "major_country": "FJ",
+      "major_continent": "COC",
+      "country":[  
+        {  
+          "name":"Fiji",
+          "code":"FJ",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        }
+      ]
+    },
+    {  
+      "code":"FKP",
+      "symbol":"\u00a3",
+      "name":"Falkland Islands Pound",
+      "major_country": "FK",
+      "major_continent": "CSA",
+      "country":[  
+        {  
+          "name":"Falkland Islands",
+          "code":"FK",
+          "continent":"South America",
+          "continent_code":"CSA"
+        }
+      ]
+    },
+    {  
+      "code":"GBP",
+      "symbol":"\u00a3",
+      "name":"British Pound Sterling",
+      "major_country": "GB",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"United Kingdom",
+          "code":"GB",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"GEL",
+      "symbol":"GEL",
+      "name":"Georgian Lari",
+      "major_country": "GE",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Georgia",
+          "code":"GE",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"GGP",
+      "symbol":"\u00a3",
+      "name":"Guernsey Pound",
+      "major_country": "GG",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Guernsey",
+          "code":"GG",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"GHS",
+      "symbol":"\u00a2",
+      "name":"Ghanaian Cedi",
+      "major_country": "GH",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Ghana",
+          "code":"GH",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"GIP",
+      "symbol":"\u00a3",
+      "name":"Gibraltar Pound",
+      "major_country": "GI",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Gibraltar",
+          "code":"GI",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"GMD",
+      "symbol":"D",
+      "name":"Gambian Dalasi",
+      "major_country": "GM",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Gambia",
+          "code":"GM",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"GNF",
+      "symbol":"FG",
+      "name":"Guinean Franc",
+      "major_country": "GN",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Guinea",
+          "code":"GN",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"GTQ",
+      "symbol":"Q",
+      "name":"Guatemalan Quetzal",
+      "major_country": "GT",
+      "major_continent": "CNA",
+      "country":[  
+        {  
+          "name":"Guatemala",
+          "code":"GT",
+          "continent":"North America",
+          "continent_code":"CNA"
+        }
+      ]
+    },
+    {  
+      "code":"GYD",
+      "symbol":"$",
+      "name":"Guyanaese Dollar",
+      "major_country": "GY",
+      "major_continent": "GSA",
+      "country":[  
+        {  
+          "name":"Guyana",
+          "code":"GY",
+          "continent":"South America",
+          "continent_code":"GSA"
+        }
+      ]
+    },
+    {  
+      "code":"HKD",
+      "symbol":"$",
+      "name":"Hong Kong Dollar",
+      "major_country": "HK",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Hong Kong",
+          "code":"HK",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"HNL",
+      "symbol":"L",
+      "name":"Honduran Lempira",
+      "major_country": "HN",
+      "major_continent": "CNA",
+      "country":[  
+        {  
+          "name":"Honduras",
+          "code":"HN",
+          "continent":"North America",
+          "continent_code":"CNA"
+        }
+      ]
+    },
+    {  
+      "code":"HRK",
+      "symbol":"kn",
+      "name":"Croatian Kuna",
+      "major_country": "HR",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Croatia",
+          "code":"HR",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"HTG",
+      "symbol":"G",
+      "name":"Haitian Gourde",
+      "major_country": "HT",
+      "major_continent": "CNA",
+      "country":[  
+        {  
+          "name":"Haiti",
+          "code":"HT",
+          "continent":"North America",
+          "continent_code":"CNA"
+        }
+      ]
+    },
+    {  
+      "code":"HUF",
+      "symbol":"Ft",
+      "name":"Hungarian Forint",
+      "major_country": "HU",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Hungary",
+          "code":"HU",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"IDR",
+      "symbol":"Rp",
+      "name":"Indonesian Rupiah",
+      "major_country": "ID",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Indonesia",
+          "code":"ID",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"ILS",
+      "symbol":"\u20aa",
+      "name":"Israeli New Sheqel",
+      "major_country": "IL",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Israel",
+          "code":"IL",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        },
+        {  
+          "name":"Palestine",
+          "code":"PS",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"IMP",
+      "symbol":"\u00a3",
+      "name":"Manx Pound",
+      "major_country": "IM",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Isle of Man",
+          "code":"IM",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"INR",
+      "symbol":"\u20B9",
+      "name":"Indian Rupee",
+      "major_country": "IN",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"India",
+          "code":"IN",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"IQD",
+      "symbol":"\u062f.\u0639",
+      "name":"Iraqi Dinar",
+      "major_country": "IQ",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Iraq",
+          "code":"IQ",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"IRR",
+      "symbol":"\ufdfc",
+      "name":"Iranian Rial",
+      "major_country": "IR",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Iran",
+          "code":"IR",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"ISK",
+      "symbol":"kr",
+      "name":"Icelandic Króna",
+      "major_country": "IS",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Iceland",
+          "code":"IS",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"JEP",
+      "symbol":"\u00a3",
+      "name":"Jersey Pound",
+      "major_country": "JE",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Jersey",
+          "code":"JE",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"JMD",
+      "symbol":"J$",
+      "name":"Jamaican Dollar",
+      "major_country": "JM",
+      "major_continent": "CNA",
+      "country":[  
+        {  
+          "name":"Jamaica",
+          "code":"JM",
+          "continent":"North America",
+          "continent_code":"CNA"
+        }
+      ]
+    },
+    {  
+      "code":"JOD",
+      "symbol":"JOD",
+      "name":"Jordanian Dinar",
+      "major_country": "JO",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Jordan",
+          "code":"JO",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"JPY",
+      "symbol":"\u00a5",
+      "name":"Japanese Yen",
+      "major_country": "JP",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Japan",
+          "code":"JP",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"KES",
+      "symbol":"KSh",
+      "name":"Kenyan Shilling",
+      "major_country": "KE",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Kenya",
+          "code":"KE",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"KGS",
+      "symbol":"\u043b\u0432",
+      "name":"Kyrgystani Som",
+      "major_country": "KG",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Kyrgyzstan",
+          "code":"KG",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"KHR",
+      "symbol":"\u17db",
+      "name":"Cambodian Riel",
+      "major_country": "KH",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Cambodia",
+          "code":"KH",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"KMF",
+      "symbol":"KMF",
+      "name":"Comorian Franc",
+      "major_country": "KM",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Comoros",
+          "code":"KM",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"KPW",
+      "symbol":"\u20a9",
+      "name":"North Korean Won",
+      "major_country": "KR",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"North Korea",
+          "code":"KR",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"KRW",
+      "symbol":"\u20a9",
+      "name":"South Korean Won",
+      "major_country": "KP",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"South Korea",
+          "code":"KP",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"KWD",
+      "symbol":"KWD",
+      "name":"Kuwaiti Dinar",
+      "major_country": "KW",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Kuwait",
+          "code":"KW",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"KYD",
+      "symbol":"KY$",
+      "name":"Cayman Islands Dollar",
+      "major_country": "KY",
+      "major_continent": "CNA",
+      "country":[  
+        {  
+          "name":"Cayman Islands",
+          "code":"KY",
+          "continent":"North America",
+          "continent_code":"CNA"
+        }
+      ]
+    },
+    {  
+      "code":"KZT",
+      "symbol":"\u043b\u0432",
+      "name":"Kazakhstani Tenge",
+      "major_country": "KZ",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Kazakhstan",
+          "code":"KZ",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"LAK",
+      "symbol":"\u20ad",
+      "name":"Laotian Kip",
+      "major_country": "LA",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Laos",
+          "code":"LA",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"LBP",
+      "symbol":"\u00a3",
+      "name":"Lebanese Pound",
+      "major_country": "LB",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Lebanon",
+          "code":"LB",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"LKR",
+      "symbol":"\u20a8",
+      "name":"Sri Lankan Rupee",
+      "major_country": "LK",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Sri Lanka",
+          "code":"LK",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"LRD",
+      "symbol":"L$",
+      "name":"Liberian Dollar",
+      "major_country": "LR",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Liberia",
+          "code":"LR",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"LSL",
+      "symbol":"M",
+      "name":"Lesotho Loti",
+      "major_country": "LS",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Lesotho",
+          "code":"LS",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"LTL",
+      "symbol":"LTL",
+      "name":"Lithuanian Litas",
+      "major_country": "",
+      "major_continent": "",
+      "country":[  
+
+      ]
+    },
+    {  
+      "code":"LVL",
+      "symbol":"LVL",
+      "name":"Latvian Lats",
+      "major_country": "",
+      "major_continent": "",
+      "country":[  
+
+      ]
+    },
+    {  
+      "code":"LYD",
+      "symbol":"LD",
+      "name":"Libyan Dinar",
+      "major_country": "LY",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Libya",
+          "code":"LY",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"MAD",
+      "symbol":"MAD",
+      "name":"Moroccan Dirham",
+      "major_country": "MA",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Morocco",
+          "code":"MA",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"MDL",
+      "symbol":"MDL",
+      "name":"Moldovan Leu",
+      "major_country": "MD",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Moldova",
+          "code":"MD",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"MGA",
+      "symbol":"Ar",
+      "name":"Malagasy Ariary",
+      "major_country": "MG",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Madagascar",
+          "code":"MG",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"MKD",
+      "symbol":"\u0434\u0435\u043d",
+      "name":"Macedonian Denar",
+      "major_country": "MK",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Macedonia",
+          "code":"MK",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"MMK",
+      "symbol":"K",
+      "name":"Myanma Kyat",
+      "major_country": "MM",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Myanmar",
+          "code":"MM",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"MNT",
+      "symbol":"\u20ae",
+      "name":"Mongolian Tugrik",
+      "major_country": "MN",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Mongolia",
+          "code":"MN",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"MOP",
+      "symbol":"MOP$",
+      "name":"Macanese Pataca",
+      "major_country": "MO",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Macau SAR China",
+          "code":"MO",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"MRO",
+      "symbol":"UM",
+      "name":"Mauritanian Ouguiya",
+      "major_country": "MR",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Mauritania",
+          "code":"MR",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"MUR",
+      "symbol":"\u20a8",
+      "name":"Mauritian Rupee",
+      "major_country": "MU",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Mauritius",
+          "code":"MU",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"MVR",
+      "symbol":"Rf",
+      "name":"Maldivian Rufiyaa",
+      "major_country": "MV",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Maldives",
+          "code":"MV",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"MWK",
+      "symbol":"MK",
+      "name":"Malawian Kwacha",
+      "major_country": "MW",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Malawi",
+          "code":"MW",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"MXN",
+      "symbol":"$",
+      "name":"Mexican Peso",
+      "major_country": "MX",
+      "major_continent": "CNA",
+      "country":[  
+        {  
+          "name":"Mexico",
+          "code":"MX",
+          "continent":"North America",
+          "continent_code":"CNA"
+        }
+      ]
+    },
+    {  
+      "code":"MYR",
+      "symbol":"RM",
+      "name":"Malaysian Ringgit",
+      "major_country": "MY",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Malaysia",
+          "code":"MY",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"MZN",
+      "symbol":"MT",
+      "name":"Mozambican Metical",
+      "major_country": "MZ",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Mozambique",
+          "code":"MZ",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"NAD",
+      "symbol":"$",
+      "name":"Namibian Dollar",
+      "major_country": "NA",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Namibia",
+          "code":"NA",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"NGN",
+      "symbol":"\u20a6",
+      "name":"Nigerian Naira",
+      "major_country": "NG",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Nigeria",
+          "code":"NG",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"NIO",
+      "symbol":"C$",
+      "name":"Nicaraguan Córdoba",
+      "major_country": "NI",
+      "major_continent": "CNA",
+      "country":[  
+        {  
+          "name":"Nicaragua",
+          "code":"NI",
+          "continent":"North America",
+          "continent_code":"CNA"
+        }
+      ]
+    },
+    {  
+      "code":"NOK",
+      "symbol":"kr",
+      "name":"Norwegian Krone",
+      "major_country": "NO",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Norway",
+          "code":"NO",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        },
+        {  
+          "name":"Svalbard and Jan Mayen",
+          "code":"SJ",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"NPR",
+      "symbol":"\u20a8",
+      "name":"Nepalese Rupee",
+      "major_country": "NP",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Nepal",
+          "code":"NP",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"NZD",
+      "symbol":"$",
+      "name":"New Zealand Dollar",
+      "major_country": "NZ",
+      "major_continent": "COC",
+      "country":[  
+        {  
+          "name":"New Zealand",
+          "code":"NZ",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        },
+        {  
+          "name":"Niue",
+          "code":"NU",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        },
+        {  
+          "name":"Pitcairn Islands",
+          "code":"PN",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        },
+        {  
+          "name":"Tokelau",
+          "code":"TK",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        }
+      ]
+    },
+    {  
+      "code":"OMR",
+      "symbol":"\ufdfc",
+      "name":"Omani Rial",
+      "major_country": "OM",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Oman",
+          "code":"OM",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"PAB",
+      "symbol":"B/.",
+      "name":"Panamanian Balboa",
+      "major_country": "PA",
+      "major_continent": "CNA",
+      "country":[  
+        {  
+          "name":"Panama",
+          "code":"PA",
+          "continent":"North America",
+          "continent_code":"CNA"
+        }
+      ]
+    },
+    {  
+      "code":"PEN",
+      "symbol":"S/.",
+      "name":"Peruvian Nuevo Sol",
+      "major_country": "PE",
+      "major_continent": "CSA",
+      "country":[  
+        {  
+          "name":"Peru",
+          "code":"PE",
+          "continent":"South America",
+          "continent_code":"CSA"
+        }
+      ]
+    },
+    {  
+      "code":"PGK",
+      "symbol":"K",
+      "name":"Papua New Guinean Kina",
+      "major_country": "PG",
+      "major_continent": "COC",
+      "country":[  
+        {  
+          "name":"Papua New Guinea",
+          "code":"PG",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        }
+      ]
+    },
+    {  
+      "code":"PHP",
+      "symbol":"\u20b1",
+      "name":"Philippine Peso",
+      "major_country": "PH",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Philippines",
+          "code":"PH",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"PKR",
+      "symbol":"\u20a8",
+      "name":"Pakistani Rupee",
+      "major_country": "PK",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Pakistan",
+          "code":"PK",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"PLN",
+      "symbol":"\u007a\u0142",
+      "name":"Polish Zloty",
+      "major_country": "PL",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Poland",
+          "code":"PL",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"PYG",
+      "symbol":"Gs",
+      "name":"Paraguayan Guarani",
+      "major_country": "PY",
+      "major_continent": "CSA",
+      "country":[  
+        {  
+          "name":"Paraguay",
+          "code":"PY",
+          "continent":"South America",
+          "continent_code":"CSA"
+        }
+      ]
+    },
+    {  
+      "code":"QAR",
+      "symbol":"\ufdfc",
+      "name":" Qatari Rial",
+      "major_country": "QA",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Qatar",
+          "code":"QA",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"RON",
+      "symbol":"lei",
+      "name":"Romanian Leu",
+      "major_country": "RO",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Romania",
+          "code":"RO",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"RSD",
+      "symbol":"\u0414\u0428\u043d\u002e",
+      "name":"Serbian Dinar",
+      "major_country": "RS",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Serbia",
+          "code":"RS",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"RUB",
+      "symbol":"\u0440\u0443\u0431",
+      "name":"Russian Ruble",
+      "major_country": "RU",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Russia",
+          "code":"RU",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"RWF",
+      "symbol":"FRw",
+      "name":"Rwandan Franc",
+      "major_country": "RW",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Rwanda",
+          "code":"RW",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"SAR",
+      "symbol":"\ufdfc",
+      "name":"Saudi Riyal",
+      "major_country": "SA",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Saudi Arabia",
+          "code":"SA",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"SBD",
+      "symbol":"$",
+      "name":"Solomon Islands Dollar",
+      "major_country": "SB",
+      "major_continent": "COC",
+      "country":[  
+        {  
+          "name":"Solomon Islands",
+          "code":"SB",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        }
+      ]
+    },
+    {  
+      "code":"SCR",
+      "symbol":"\u20a8",
+      "name":"Seychellois Rupee",
+      "major_country": "SC",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Seychelles",
+          "code":"SC",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"SDG",
+      "symbol":"SDG",
+      "name":"Sudanese Pound",
+      "major_country": "SD",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Sudan",
+          "code":"SD",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"SEK",
+      "symbol":"kr",
+      "name":"Swedish Krona",
+      "major_country": "SE",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Sweden",
+          "code":"SE",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"SGD",
+      "symbol":"S$",
+      "name":"Singapore Dollar",
+      "major_country": "SG",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Singapore",
+          "code":"SG",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"SHP",
+      "symbol":"\u00a3",
+      "name":"Saint Helena Pound",
+      "major_country": "SH",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Saint Helena",
+          "code":"SH",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"SLL",
+      "symbol":"Le",
+      "name":"Sierra Leonean Leone",
+      "major_country": "SL",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Sierra Leone",
+          "code":"SL",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"SOS",
+      "symbol":"S",
+      "name":"Somali Shilling",
+      "major_country": "SO",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Somalia",
+          "code":"SO",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"SRD",
+      "symbol":"$",
+      "name":"Surinamese Dollar",
+      "major_country": "SR",
+      "major_continent": "CSA",
+      "country":[  
+        {  
+          "name":"Suriname",
+          "code":"SR",
+          "continent":"South America",
+          "continent_code":"CSA"
+        }
+      ]
+    },
+    {  
+      "code":"STD",
+      "symbol":"Db",
+      "name":"São Tomé and Príncipe Dobra",
+      "major_country": "ST",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Sao Tome and Principe",
+          "code":"ST",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"SVC",
+      "symbol":"$",
+      "name":"Salvadoran Colón",
+      "major_country": "SV",
+      "major_continent": "CNA",
+      "country":[  
+        {  
+          "name":"El Salvador",
+          "code":"SV",
+          "continent":"North America",
+          "continent_code":"CNA"
+        }
+      ]
+    },
+    {  
+      "code":"SYP",
+      "symbol":"\u00a3",
+      "name":"Syrian Pound",
+      "major_country": "SY",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Syria",
+          "code":"SY",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"SZL",
+      "symbol":"E",
+      "name":"Swazi Lilangeni",
+      "major_country": "SZ",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Swaziland",
+          "code":"SZ",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"THB",
+      "symbol":"\u0e3f",
+      "name":"Thai Baht",
+      "major_country": "TH",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Thailand",
+          "code":"TH",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"TJS",
+      "symbol":"TJS",
+      "name":"Tajikistani Somoni",
+      "major_country": "TJ",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Tajikistan",
+          "code":"TJ",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"TMT",
+      "symbol":"m",
+      "name":"Turkmenistani Manat",
+      "major_country": "TM",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Turkmenistan",
+          "code":"TM",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"TND",
+      "symbol":"DT",
+      "name":"Tunisian Dinar",
+      "major_country": "TN",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Tunisia",
+          "code":"TN",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"TOP",
+      "symbol":"T$",
+      "name":"Tongan Paʻanga",
+      "major_country": "TO",
+      "major_continent": "COC",
+      "country":[  
+        {  
+          "name":"Tonga",
+          "code":"TO",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        }
+      ]
+    },
+    {  
+      "code":"TRY",
+      "symbol":"TRY",
+      "name":"Turkish Lira",
+      "major_country": "TR",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Turkey",
+          "code":"TR",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"TTD",
+      "symbol":"TT$",
+      "name":"Trinidad and Tobago Dollar",
+      "major_country": "TT",
+      "major_continent": "CNA",
+      "country":[  
+        {  
+          "name":"Trinidad and Tobago",
+          "code":"TT",
+          "continent":"North America",
+          "continent_code":"CNA"
+        }
+      ]
+    },
+    {  
+      "code":"TWD",
+      "symbol":"NT$",
+      "name":"New Taiwan Dollar",
+      "major_country": "TW",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Taiwan",
+          "code":"TW",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"TZS",
+      "symbol":"TZS",
+      "name":"Tanzanian Shilling",
+      "major_country": "TZ",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Tanzania",
+          "code":"TZ",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"UAH",
+      "symbol":"\u20b4",
+      "name":"Ukrainian Hryvnia",
+      "major_country": "UA",
+      "major_continent": "CEU",
+      "country":[  
+        {  
+          "name":"Ukraine",
+          "code":"UA",
+          "continent":"Europe",
+          "continent_code":"CEU"
+        }
+      ]
+    },
+    {  
+      "code":"UGX",
+      "symbol":"USh",
+      "name":"Ugandan Shilling",
+      "major_country": "UG",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Uganda",
+          "code":"UG",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"USD",
+      "symbol":"US$",
+      "name":"United States Dollar",
+      "major_country": "US",
+      "major_continent": "CNA",
+      "country":[  
+        {  
+          "name":"American Samoa",
+          "code":"AS",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        },
+        {  
+          "name":"British Indian Ocean Territory",
+          "code":"IO",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        },
+        {  
+          "name":"British Virgin Islands",
+          "code":"VG",
+          "continent":"North America",
+          "continent_code":"CNA"
+        },
+        {  
+          "name":"Caribbean Netherlands",
+          "code":"BQ",
+          "continent":"North America",
+          "continent_code":"CNA"
+        },
+        {  
+          "name":"Ecuador",
+          "code":"EC",
+          "continent":"South America",
+          "continent_code":"CSA"
+        },
+        {  
+          "name":"El Salvador",
+          "code":"SV",
+          "continent":"North America",
+          "continent_code":"CNA"
+        },
+        {  
+          "name":"Guam",
+          "code":"GU",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        },
+        {  
+          "name":"Marshall Islands",
+          "code":"MH",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        },
+        {  
+          "name":"Micronesia",
+          "code":"FM",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        },
+        {  
+          "name":"Northern Mariana Islands",
+          "code":"MP",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        },
+        {  
+          "name":"Palau",
+          "code":"PW",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        },
+        {  
+          "name":"Panama",
+          "code":"PA",
+          "continent":"North America",
+          "continent_code":"CNA"
+        },
+        {  
+          "name":"Puerto Rico",
+          "code":"PR",
+          "continent":"North America",
+          "continent_code":"CNA"
+        },
+        {  
+          "name":"Timor-Leste",
+          "code":"TL",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        },
+        {  
+          "name":"Turks and Caicos Islands",
+          "code":"TC",
+          "continent":"North America",
+          "continent_code":"CNA"
+        },
+        {  
+          "name":"United States",
+          "code":"US",
+          "continent":"North America",
+          "continent_code":"CNA"
+        },
+        {  
+          "name":"US Virgin Islands",
+          "code":"VI",
+          "continent":"North America",
+          "continent_code":"CNA"
+        },
+        {  
+          "name":"Zimbabwe",
+          "code":"ZW",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"UYU",
+      "symbol":"$U",
+      "name":"Uruguayan Peso",
+      "major_country": "UY",
+      "major_continent": "CSA",
+      "country":[  
+        {  
+          "name":"Uruguay",
+          "code":"UY",
+          "continent":"South America",
+          "continent_code":"CSA"
+        }
+      ]
+    },
+    {  
+      "code":"UZS",
+      "symbol":"\u043b\u0432",
+      "name":"Uzbekistan Som",
+      "major_country": "UZ",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Uzbekistan",
+          "code":"UZ",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"VEF",
+      "symbol":"Bs",
+      "name":"Venezuelan Bolívar Fuerte",
+      "major_country": "VE",
+      "major_continent": "CSA",
+      "country":[  
+        {  
+          "name":"Venezuela",
+          "code":"VE",
+          "continent":"South America",
+          "continent_code":"CSA"
+        }
+      ]
+    },
+    {  
+      "code":"VND",
+      "symbol":"\u20ab",
+      "name":"Vietnamese Dong",
+      "major_country": "VN",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Vietnam",
+          "code":"VN",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"VUV",
+      "symbol":"VT",
+      "name":"Vanuatu Vatu",
+      "major_country": "VU",
+      "major_continent": "COC",
+      "country":[  
+        {  
+          "name":"Vanuatu",
+          "code":"VU",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        }
+      ]
+    },
+    {  
+      "code":"WST",
+      "symbol":"WS$",
+      "name":"Samoan Tala",
+      "major_country": "WS",
+      "major_continent": "COC",
+      "country":[  
+        {  
+          "name":"Samoa",
+          "code":"WS",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        }
+      ]
+    },
+    {  
+      "code":"XAF",
+      "symbol":"CFA",
+      "name":"Central African CFA franc",
+      "major_country": "",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Cameroon",
+          "code":"CM",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        },
+        {  
+          "name":"Central African Republic",
+          "code":"CF",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        },
+        {  
+          "name":"Chad",
+          "code":"TD",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        },
+        {  
+          "name":"Congo, Republic of the",
+          "code":"CG",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        },
+        {  
+          "name":"Equatorial Guinea",
+          "code":"GQ",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        },
+        {  
+          "name":"Gabon",
+          "code":"GA",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"XAG",
+      "symbol":"XAG",
+      "name":"Silver (troy ounce)",
+      "major_country": "",
+      "major_continent": "",
+      "country":[  
+
+      ]
+    },
+    {  
+      "code":"XAU",
+      "symbol":"XAU",
+      "name":"Gold (troy ounce)",
+      "major_country": "",
+      "major_continent": "",
+      "country":[  
+
+      ]
+    },
+    {  
+      "code":"XCD",
+      "symbol":"EC$",
+      "name":"East Caribbean Dollar",
+      "major_country": "",
+      "major_continent": "CNA",
+      "country":[  
+        {  
+          "name":"Anguilla",
+          "code":"AI",
+          "continent":"North America",
+          "continent_code":"CNA"
+        },
+        {  
+          "name":"Antigua and Barbuda",
+          "code":"AG",
+          "continent":"North America",
+          "continent_code":"CNA"
+        },
+        {  
+          "name":"Dominica",
+          "code":"DM",
+          "continent":"North America",
+          "continent_code":"CNA"
+        },
+        {  
+          "name":"Grenada",
+          "code":"GD",
+          "continent":"North America",
+          "continent_code":"CNA"
+        },
+        {  
+          "name":"Montserrat",
+          "code":"MS",
+          "continent":"North America",
+          "continent_code":"CNA"
+        },
+        {  
+          "name":"Saint Kitts and Nevis",
+          "code":"KN",
+          "continent":"North America",
+          "continent_code":"CNA"
+        },
+        {  
+          "name":"Saint Lucia",
+          "code":"LC",
+          "continent":"North America",
+          "continent_code":"CNA"
+        },
+        {  
+          "name":"Saint Vincent and the Grenadines",
+          "code":"VC",
+          "continent":"North America",
+          "continent_code":"CNA"
+        }
+      ]
+    },
+    {  
+      "code":"XDR",
+      "symbol":"SDR",
+      "name":"IMF Special Drawing Rights",
+      "major_country": "",
+      "major_continent": "",
+      "country":[  
+
+      ]
+    },
+    {  
+      "code":"XOF",
+      "symbol":"CFA",
+      "name":"West African CFA franc",
+      "major_country": "",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Benin",
+          "code":"BJ",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        },
+        {  
+          "name":"Burkina Faso",
+          "code":"BF",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        },
+        {  
+          "name":"Cote d'Ivoire",
+          "code":"CI",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        },
+        {  
+          "name":"Guinea-Bissau",
+          "code":"GW",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        },
+        {  
+          "name":"Mali",
+          "code":"ML",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        },
+        {  
+          "name":"Niger",
+          "code":"NE",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        },
+        {  
+          "name":"Senegal",
+          "code":"SN",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        },
+        {  
+          "name":"Togo",
+          "code":"TG",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"XPF",
+      "symbol":"F",
+      "name":"CFP Franc",
+      "major_country": "",
+      "major_continent": "COC",
+      "country":[  
+        {  
+          "name":"French Polynesia",
+          "code":"PF",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        },
+        {  
+          "name":"New Caledonia",
+          "code":"NC",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        },
+        {  
+          "name":"Wallis and Futuna Islands",
+          "code":"WF",
+          "continent":"Oceania",
+          "continent_code":"COC"
+        }
+      ]
+    },
+    {  
+      "code":"YER",
+      "symbol":"\ufdfc",
+      "name":"Yemeni Rial",
+      "major_country": "YE",
+      "major_continent": "CAS",
+      "country":[  
+        {  
+          "name":"Yemen",
+          "code":"YE",
+          "continent":"Asia",
+          "continent_code":"CAS"
+        }
+      ]
+    },
+    {  
+      "code":"ZAR",
+      "symbol":"R",
+      "name":"South African Rand",
+      "major_country": "ZA",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"South Africa",
+          "code":"ZA",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"ZMK",
+      "symbol":"ZK",
+      "name":"Zambian Kwacha",
+      "major_country": "ZM",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Zambia",
+          "code":"ZM",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"ZMW",
+      "symbol":"ZK",
+      "name":"Zambian Kwacha",
+      "major_country": "ZM",
+      "major_continent": "CAF",
+      "country":[  
+        {  
+          "name":"Zambia",
+          "code":"ZM",
+          "continent":"Africa",
+          "continent_code":"CAF"
+        }
+      ]
+    },
+    {  
+      "code":"ZWR",
+      "symbol":"Z$",
+      "name":"Zimbabwean Dollar",
+      "major_country": "",
+      "major_continent": "",
+      "country":[  
+
+      ]
+    }
+  ]
+}
